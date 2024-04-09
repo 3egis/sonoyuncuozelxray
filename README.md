@@ -1,6 +1,8 @@
 # Kullanım
 ```bash
-Sonoyuncuyu açtıktan sonra madene gir çift tıklayıp 2 jardan birini aç ve xrayın tadını çıkar.
+
+Oyun kapalı olsun sonoyuncuxraybaslat'ı aç ardından oyun açılacaktır
+
 ```
 # Kurulması gerekenler
 
